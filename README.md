@@ -22,3 +22,9 @@ Install packages
 ```
 pip install -r requirements.txt
 ```
+
+Set .env file at root of project
+
+```
+OPENAI_API_KEY="sk-asdfjasd;lfasdjfl...."
+```
